@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "안녕하세요.Hallym university에 재학중인 20207139 강석호입니다"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "kangseokho"
+name                     : "kangseokho" "저의이름은 강석호(kangseokho)입니다."
 description              : "An amazing website."
 url                      :  "https://kangseokhoho.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
